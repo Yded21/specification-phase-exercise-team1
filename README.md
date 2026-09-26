@@ -4,7 +4,10 @@ A little exercise to get started with the specification phase of the software de
 
 ## Team members
 
-See instructions. Delete this line and replace with a list of the names of your team members, including links to each one's GitHub profile.
+[Andy Chi](https://github.com/ac11238)
+[Eddy Zhang](https://github.com/Yded21)
+[Miki Osada](https://github.com/mosada2515)
+[Tyler Wu](https://github.com/uwtz)
 
 ## Review of the Current Application
 
