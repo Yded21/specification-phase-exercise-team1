@@ -27,29 +27,29 @@ See instructions. Delete this line and place your Product Vision Statement here 
 
 ## User Requirements
 
-#### instructor
-1. As an instructor, I want the slides to be generated with citation(s) backing up the statements on the slide, from online or provided material, so I know the slides are accurate and students can refer to the additional materials.
-2. As an instructor, I want to see a confidence level for each AI generated slide, based on factors like audio quality, missing reference, and factual accuracy, so that I know which slide to manually look over and edit.
-3. As an instructor, I want the AI to highlight the exact word or number that caused a low confidence level so that I don't have to look for what's wrong.
-4. As an instructor, I want to mark slides I have looked over as "reviewed" and the confidence level removed so that students know which slides can be trusted.
-5. As an instructor, I want a minimalized view of all the slides so that I can easily, at a glance, see the general trends of the confidence level and see which slides need to be reviewed.
-6. As an instructor, I want to add/edit citations backing up statements on the slides so that students can refer to them when studying.
-7. As an instructor, I want to restrict the AI to only cite my uploaded syllabus and textbook PDFs so that the slides do not pull unverified information from the public internet.
-8. As an instructor, I want to upload a new source to the slide and have the slide regenerate and link citations to statements so that I don't have to manually edit citations.
-9. As an instructor, I want to be notified when a student marked a slide as "potentially inaccurate" so that I can review that slide.
-10. As an instructor, I want to see the cause of the low confidence level so that it is clear what needs to be improved upon.
+Student:
+- As a student, I want to be able to initate an AI auto checker, which will provide citations for the content of the slides, so that I can check on the factuality of the slide.
+- As a student, I want to click the AI checker button to see sources relating to the content of the slide so that I know the slide is trustworthy.
+- As a student, I want to click on the inlined citation to see sources relating to the content of the slide, and vice versa, so that I know the statement is trustworthy.
+- As a student, I want to click on individual citations provided by the AI auto checker and open a seperate page with the source so that I can do further readings on the topic.
+- As a student, I want the opened source to have related text highlighted so that I don't have to go looking for where the citation is refering to.
+- As a student, I want the AI auto checker to provide additional resources from the web relating to the content of the slide so that multiple sources can be checked to reduce biases and inaccuracies.
+- As a student, I want to see the result of the AI auto checker from the instructor or other students so that I don't have to run it again.
+- As a student, I want to see edits made to the citation by the instructor so that I have the most up to day version of it.
+- As a student, I want to be notified when the content of the citation has been modified so that I can see the latest changes.
+- As a student, I want to mark certain citations for review so that the instructor can look over potentially inaccurate citations.
 
-#### student
-1. As a student, I want to see the source of statements, theorems, etc. on the slides so that I know the AI captured the lecture correctly and did not hallucinate.
-2. As a student, I want to click on a citation on a slide and immediately open the exact webpage or textbook PDF source in a browser window.
-3. As a student, I want to hover over a citation to get an overview of the source so that I can quickly understand its content.
-4. As a student, I want to see a confidence level for each slide so that I know which slide I can rely on and which ones to double check.
-5. As a student, I want the AI to present alternative sources when confidence level is low so that I can use those sources to fact check.
-6. As a student, I want to flag a specific slide statement as "potentially inaccurate" and attach a counter-source so that the instructor is notified to review it.
-7. As a student, I want to see which statements other students have marked as "potentially inaccurate" so that we can warn each other of potential inaccuracies.
-8. As a student, I want to know when the instructor has reviewed a slide so that I can go view the changes and safely use it.
-9. As a student, I want to see an explanation for why a slide has a low confidence score so that I understand the nature of the potential error.
-10. As a student, I want to see the overall confidence level for an entire slide presentation at the project menu so that it is immediately clear if it is reliable.
+Instructor:
+- As an instructor, I want to be able to initate an AI auto checker so that I can examine the accuracy of the contents and provide students with additional resources.
+- As an instructor, I want to click on the citation links to open the source so I can examine the accuracy of the slides.
+- As an instructor, I want to click on the citation to see where in the slide it is refering to so that I can check if it is cited correctly.
+- As an instructor, I want to edit the citations so that I can remove false citations and provide students with accurate sources.
+- As an instructor, I want to be notified when students have mark a citation for review so that I can immediately go review the accuracy of the citation.
+- As an instructor, I want to mark citations as reviewed so that students know the citations is not unchecked AI generated content.
+- As an instructor, I want to see the result of the AI auto checker from the students so that I review them for accuracy.
+- As an instructor, I want to be the only one who can run citations so that students won't see AI generated info without first being reviewed by me.
+- As an instructor, I want to limit what source files can be accessed through citation so that I can keep certain information private.
+- As an instructor, I want to the AI to provide additional resources to the student so that they can do further readings.
 
 ## Activity Diagrams
 
