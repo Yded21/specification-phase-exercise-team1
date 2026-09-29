@@ -57,7 +57,8 @@ See instructions. Delete this line and place images of your UML Activity diagram
 
 ## Wireframes
 
-![Screenshot](images/wireframe1.png)
+<img src="wireframe1" alt="Screenshot" width="50%">
+<img src="wireframe2" alt="Screenshot" width="50%">
 
 ## Clickable Prototype
 
