@@ -56,9 +56,12 @@ Instructor:
 See instructions. Delete this line and place images of your UML Activity diagrams here, each with the text of the user story it illustrates.
 
 ## Wireframes
-
-<img src="images/wireframe1.png" alt="wireframe 1" width="50%">
-<img src="images/wireframe2.png" alt="wireframe 2" width="50%">
+<table>
+  <tr>
+    <td><img src="images/wireframe1.png" alt="wireframe 1" width="50%"></td>
+    <td><img src="images/wireframe2.png" alt="wireframe 2" width="50%"></td>
+  </tr>
+</table>
 
 ## Clickable Prototype
 
