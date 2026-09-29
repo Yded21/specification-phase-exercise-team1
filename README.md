@@ -58,8 +58,14 @@ See instructions. Delete this line and place images of your UML Activity diagram
 ## Wireframes
 <table>
   <tr>
-    <td><img src="images/wireframe1.png" alt="wireframe 1" width="50%"></td>
-    <td><img src="images/wireframe2.png" alt="wireframe 2" width="50%"></td>
+    <td><img src="images/wireframe1.png" alt="wireframe 1" width="100%"></td>
+    <td><img src="images/wireframe2.png" alt="wireframe 2" width="100%"></td>
+    <td><img src="images/wireframe3.png" alt="wireframe 3" width="100%"></td>
+    <td><img src="images/wireframe4.png" alt="wireframe 4" width="100%"></td>
+    <td><img src="images/wireframe5.png" alt="wireframe 5" width="100%"></td>
+    <td><img src="images/wireframe6.png" alt="wireframe 6" width="100%"></td>
+    <td><img src="images/wireframe7.png" alt="wireframe 7" width="100%"></td>
+    <td><img src="images/wireframe8.png" alt="wireframe 8" width="100%"></td>
   </tr>
 </table>
 
