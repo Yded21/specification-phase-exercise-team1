@@ -57,7 +57,7 @@ See instructions. Delete this line and place images of your UML Activity diagram
 
 ## Wireframes
 
-See instructions. Delete this line and place your wireframe diagrams here, covering every new screen and every existing screen your proposal changes, for every type of user.
+![Screenshot](images/wireframe1.png)
 
 ## Clickable Prototype
 
