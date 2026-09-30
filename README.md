@@ -19,7 +19,119 @@ See instructions. Delete this line and replace with a short statement of what yo
 
 ## Stakeholders
 
-See instructions. Delete this line and replace with the name(s) of the stakeholder(s) you interviewed and lists showing their goals/needs, and problems/frustrations. Note which type of user each stakeholder represents. You may use pseudonyms or partial names to maintain their privacy, but you must privately share their full names and contact information as part of your submission of this exercise
+Stakeholder Research
+
+For this exercise, we focused on two main stakeholder groups: students and instructors. 
+
+We conducted interviews on two students and two teachers. Each stakeholder considered the current  model of the Slide Machine workflow.
+
+The interviews focused on four questions:
+
+What would you use The Slide Machine for?
+
+What parts of AI-generated slides would you trust or not trust?
+
+What information would you want before relying on a generated slide?
+
+What would make reviewing or studying from generated slides easier?
+
+The issue was clear. Both students and instructors did not know where the generated content was pulled from. 
+
+Stakeholder 1 — John
+
+User Type: Student
+
+Background: John is a NYU student who studies computer science and he uses the slides to mostly review for his exams or quizzes 
+
+Goals / Needs
+
+John wants to know that slides are representative of what the professor went over during class. Knowing that will give him a good idea of what the professor thinks are important facts or points in the class. He also wants to make sure that everything on the slides are reliable. 
+
+Problems / Frustrations
+
+His main frustration was that he couldn't easily tell whether information came from the professor or the AI and because of that he worries about studying incorrect AI-generated information that is not relevant to the class. She is not sure what versions of the information to trust. 
+
+Observations
+
+While reviewing a generated deck, John immediately wanted to know where a factual statement came from. He looked for some kind of citation or source indicator.
+
+He said he would feel more comfortable studying from generated slides if he could click on a statement and see the relevant part of the professor's lecture or the supporting course material.
+
+His main concern was very much a question of  "Where did this come from?"
+
+Stakeholder 2 — Josh
+
+User Type: Student
+
+Background: Daniel is a senior at SPS studying real estate
+
+Goals / Needs
+
+He uses the slides to help him remember what happened during the lecture. He also expressed desire to see the original explanation behind the short bullet points professors often uses because he believes that those often lack in depth and information in general.
+
+Problems / Frustrations
+
+He thought that AI generated bullet points actually removed important context and he couldn't tell whether something is a summary or new information added by the AI. 
+
+Observations
+
+Daniel was especially interested in the connection between a generated slide and the original lecture. He explained that a short bullet may make sense during class but become confusing later.He said that seeing the relevant lecture transcript would often be more useful than receiving another AI-generated explanation.His feedback suggested that source information could help students both verify information and restore lost context.
+
+Instructor Stakeholders
+
+Stakeholder 3 — Professor Phillip Yoo
+
+User Type: Instructor
+
+Background: Mr. Yoo teaches Math at his NYC high school
+
+Goals / Needs
+
+He wants the source of the generated slides to only come from his lecture and pre-nurtured information to not confuse his students. He wants questionable AI-generated information to be easy to identify and have references throughout the slides. 
+
+Problems / Frustrations
+
+Mr. Yoo's expressed that the difference between uploaded material and generated content is not always obvious and that he is hesitant to share a deck without knowing whether the AI introduced new information even if that information is correct. 
+
+He cannot easily tell what came directly from his speech and what was added by the AI.
+
+Comparing every slide with the transcript would take too much time.
+
+Small factual changes introduced during summarization may be hard to notice.
+
+The relationship between uploaded material and generated content is not always obvious.
+
+He is hesitant to share a deck without knowing whether the AI introduced new information.
+
+Observations
+
+Mr.Yoo was comfortable with the AI shortening or reorganizing his words. His concern increased when the generated text became more specific than what he remembered saying. He preferred the idea of a post-lecture review queue that would surface only the slides most likely to require attention.
+
+Stakeholder 4 — Mr. Avinash Vemuri
+
+User Type: Instructor
+
+Background: Mr. Vemuri teaches computer science at his high school at the Hill school 
+
+Goals / Needs
+
+His goal was to correct generated information without reviewing everything manually. He also wants quiz questions to be based on material he trusts. 
+
+Problems / Frustrations
+
+He worries that incorrect generated content could later become a quiz question.
+
+Observations
+
+Mr. Vemuri focused strongly on uploaded course materials. Because students are expected to use those readings, he wanted those documents to remain visible in the review process.
+
+He said she would want to know two things when examining questionable content:
+
+What did I say?
+
+What do the course materials say?
+
+He also preferred questionable slide content to be identified before it could influence quiz generation.
 
 ## Product Vision Statement
 
