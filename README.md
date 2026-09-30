@@ -30,7 +30,7 @@ Gap
 
 ## Prior Art & Originality
 
-See instructions. Delete this line and replace with a short statement of what your team checked (the project's Future Work and Open Questions, its roadmap, and its open issues and pull requests) and which parts of your proposal are original — new work not already specified, scheduled, or proposed by someone else.
+We have looked through slide-machine's Future Work, Open Questions, Roadmap, Open Issues, and Pull Requests, and have confirmed that our idea is entirely new and original, that is, to implement an AI citation checker for students and instructors to verify the content of the slides and to allow further readings.
 
 ## Stakeholders
 
@@ -150,7 +150,7 @@ He also preferred questionable slide content to be identified before it could in
 
 ## Product Vision Statement
 
-See instructions. Delete this line and place your Product Vision Statement here — one sentence describing the improvements and new features your team is proposing for The Slide Machine.
+We are proposing to implement an AI citation checker, which will create citations for the content of the slides based on the seed material and/or online sources, allowing students and instructors to verify the accuracy of the AI generated slides.
 
 ## User Requirements
 
