@@ -141,26 +141,26 @@ See instructions. Delete this line and place your Product Vision Statement here 
 
 Student:
 - As a student, I want to be able to initate an AI auto checker, which will provide citations for the content of the slides, so that I can check on the factuality of the slide.
-- As a student, I want to click the AI checker button to see sources relating to the content of the slide so that I know the slide is trustworthy.
+- As a student, I want to click the AI checker button to see citations relating to the content of the slide so that I know the slide is trustworthy.
 - As a student, I want to click on the inlined citation to see sources relating to the content of the slide, and vice versa, so that I know the statement is trustworthy.
 - As a student, I want to click on individual citations provided by the AI auto checker and open a seperate page with the source so that I can do further readings on the topic.
 - As a student, I want the opened source to have related text highlighted so that I don't have to go looking for where the citation is refering to.
 - As a student, I want the AI auto checker to provide additional resources from the web relating to the content of the slide so that multiple sources can be checked to reduce biases and inaccuracies.
 - As a student, I want to see the result of the AI auto checker from the instructor or other students so that I don't have to run it again.
 - As a student, I want to see edits made to the citation by the instructor so that I have the most up to day version of it.
-- As a student, I want to be notified when the content of the citation has been modified so that I can see the latest changes.
-- As a student, I want to mark certain citations for review so that the instructor can look over potentially inaccurate citations.
+- As a student, I want to see the transcript with the source material so that I can re-read the instructor's explanation.
+- As a student, I want to ask the AI to reexamine the citations and ask it to fix any errors I spot so that the citations are accurate.
 
 Instructor:
 - As an instructor, I want to be able to initate an AI auto checker so that I can examine the accuracy of the contents and provide students with additional resources.
 - As an instructor, I want to click on the citation links to open the source so I can examine the accuracy of the slides.
 - As an instructor, I want to click on the citation to see where in the slide it is refering to so that I can check if it is cited correctly.
 - As an instructor, I want to edit the citations so that I can remove false citations and provide students with accurate sources.
-- As an instructor, I want to be notified when students have mark a citation for review so that I can immediately go review the accuracy of the citation.
+- As an instructor, I want the AI to fix any errors with the citations and/or regenerate the slide on command so that the workflow remains automated.
 - As an instructor, I want to mark citations as reviewed so that students know the citations is not unchecked AI generated content.
+- As an instructor, I want to notify students when citation is reviewed so that students can go study with the slide.
 - As an instructor, I want to see the result of the AI auto checker from the students so that I review them for accuracy.
 - As an instructor, I want to be the only one who can run citations so that students won't see AI generated info without first being reviewed by me.
-- As an instructor, I want to limit what source files can be accessed through citation so that I can keep certain information private.
 - As an instructor, I want to the AI to provide additional resources to the student so that they can do further readings.
 
 ## Activity Diagrams
