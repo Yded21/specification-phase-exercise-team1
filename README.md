@@ -11,7 +11,22 @@ A little exercise to get started with the specification phase of the software de
 
 ## Review of the Current Application
 
-See instructions. Delete this line and replace with your team's findings from using the live app at https://theslidemachine.com — at least 10 specific observations, each labeled as a strength, a weakness, or a gap, and drawn from more than one team member's use of the app.
+Strength
+- Able to guide the AI using seed materials.
+- Able to stay on topic even with distracting unrelated dialogues.
+
+Weakness
+- Using the slidemachine on the go is a gamble with high chances for mishaps with the AI generation.
+- Difficult to change the theme of the slide.
+- Privacy settings are public by default and can go unnoticed by users.
+- Project menus look identical to main menu and lack customization functionality.
+- Slide generation is slow sometimes, unable to match the presenter's pace.
+
+Gap
+- Does not handle math notations and LaTeX properly.
+- No smaller/minimized slide display to get an overview of the slides
+- Eraser can only erase the entire stroke.
+- Cannot view projects on another user's page.
 
 ## Prior Art & Originality
 
